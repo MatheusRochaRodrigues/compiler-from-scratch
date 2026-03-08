@@ -50,6 +50,20 @@ The final stage of the project required implementing full support for functions 
 
 --- 
 
+## Compilation Process
+ 
+Source Code  
+↓
+Lexical Analysis (Flex)  
+↓
+Syntax Analysis (Bison)  
+↓
+Semantic Analysis  
+↓
+Assembly Code Generation  
+
+---
+
 ## Educational Context
 
 This project was developed as part of the **Compiler Construction** course at the Federal University of Mato Grosso (UFMT).
@@ -61,3 +75,4 @@ The objective was to understand the internal architecture of compilers by implem
 ## Author
 
 Computer Science graduate focused on **systems programming, compilers, and computer graphics**.
+
