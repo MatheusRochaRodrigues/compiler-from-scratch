@@ -48,6 +48,16 @@ The final stage of the project required implementing full support for functions 
 - control flow jumps for function execution
 - enforcement of function prototypes
 
+--- 
+
+## Educational Context
+
+This project was developed as part of the **Compiler Construction** course at the Federal University of Mato Grosso (UFMT).
+
+The objective was to understand the internal architecture of compilers by implementing each stage manually.
+
 ---
 
-## Project Structure
+## Author
+
+Computer Science graduate focused on **systems programming, compilers, and computer graphics**.
