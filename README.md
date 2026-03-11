@@ -54,9 +54,9 @@ The final stage of the project required implementing full support for functions 
  
 Source Code  
 ↓  
-Lexical Analysis (Flex)  
+Lexical Analysis 
 ↓  
-Syntax Analysis (Bison)  
+Syntax Analysis 
 ↓  
 Semantic Analysis  
 ↓  
@@ -75,5 +75,6 @@ The objective was to understand the internal architecture of compilers by implem
 ## Author
 
 Computer Science graduate focused on **systems programming, compilers, and computer graphics**.
+
 
 
