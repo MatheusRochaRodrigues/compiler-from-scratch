@@ -81,9 +81,9 @@ void genNum(char num_string[MAX_TOKEN])
  */
 void gen_preambule(void)
 {
-    fprintf(output_file, "Procedimento para geracao do executavel apos compilacao (em Linux):\n");
-    fprintf(output_file, "(1) compilacao do Assembly com nasm: $ nasm -f elf64 <nome_do_arquivo>\n");
-    fprintf(output_file, "(2) likedicao: $ ld -m elf_x86_64 <nome_arquivo_objeto>\n\n");
+    fprintf(output_file, ";Procedimento para geracao do executavel apos compilacao (em Linux):\n");
+    fprintf(output_file, ";(1) compilacao do Assembly com nasm: $ nasm -f elf64 <nome_do_arquivo>\n");
+    fprintf(output_file, ";(2) likedicao: $ ld -m elf_x86_64 <nome_arquivo_objeto>\n\n");
     fprintf(output_file, "extern printf\n");
     fprintf(output_file, "extern scanf\n");
 }
