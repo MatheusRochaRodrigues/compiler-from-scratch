@@ -1,8 +1,6 @@
-;UFMT-Compiladores
-;Prof. Ivairton
-;Procedimento para geracao do executavel apos compilacao (em Linux):
-;(1) compilacao do Assembly com nasm: $ nasm -f elf64 <nome_do_arquivo>
-;(2) likedicao: $ ld -m elf_x86_64 <nome_arquivo_objeto>
+Procedimento para geracao do executavel apos compilacao (em Linux):
+(1) compilacao do Assembly com nasm: $ nasm -f elf64 <nome_do_arquivo>
+(2) likedicao: $ ld -m elf_x86_64 <nome_arquivo_objeto>
 
 extern printf
 extern scanf
