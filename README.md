@@ -134,7 +134,7 @@ This project was developed as part of the **Compiler Construction** course at th
 
 The main objective was to gain a practical understanding of compiler internals by implementing the main stages of a compiler manually, from lexical analysis and parsing to semantic analysis and assembly code generation.
 
-Rather than relying on a compiler framework, the project was implemented from scratch to understand how the individual components of a compiler work together.
+Rather than relying on a compiler framework, the project was implemented from scratch to gain a deeper understanding of how the individual stages of a compiler interact and how source code is progressively transformed into executable instructions.
 
 ---
 
