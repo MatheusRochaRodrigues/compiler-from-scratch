@@ -169,4 +169,3 @@ Through this project, I gained practical experience with:
 ## Author
 
 Computer Science graduate focused on **systems programming, compilers, computer architecture, and computer graphics**.
-```
