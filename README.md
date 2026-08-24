@@ -33,16 +33,16 @@ The final compiler supports variables, arithmetic expressions, control structure
 The compiler is organized into several stages:
 
     Source Code
-         ↓
+        ↓
     Lexical Analysis
-         ↓
-       Parsing
-         ↓
+        ↓
+    Parsing
+        ↓
     Semantic Analysis
-         ↓
+        ↓
     Code Generation
-         ↓
-       Assembly
+        ↓
+    Assembly
 
 ### Lexical Analysis
 
