@@ -1,8 +1,8 @@
 # Compiler from Scratch
 
-An educational compiler implemented entirely from scratch in C as part of a Computer Science course on compiler construction.
+A compiler implemented entirely from scratch in C as part of a Computer Science compiler construction project.
 
-The project was developed incrementally throughout the semester, starting with lexical analysis and gradually adding parsing, semantic analysis, symbol tables, function handling, and assembly code generation for a simplified programming language.
+The project implements the core stages of a compiler, including lexical analysis, parsing, semantic analysis, symbol tables, function handling, and assembly code generation for a custom programming language.
 
 The final compiler supports variables, arithmetic expressions, control structures, functions, function calls, global and local scopes, and assembly code generation.
 
